@@ -8,3 +8,7 @@
 
  echo "****************** Display today date ************"
  date
+
+
+ echo "************* Display jenkins memory space ***********"
+ free -m 
