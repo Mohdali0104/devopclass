@@ -1,2 +1,0 @@
-# devopclass
-create demo repo
