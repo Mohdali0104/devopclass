@@ -11,4 +11,8 @@
 
 
  echo "************* Display jenkins memory space ***********"
- free -m 
+ free -m
+
+
+ echo "***************** Display this month ******************"
+ month
