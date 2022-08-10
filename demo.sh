@@ -1,10 +1,9 @@
- 
- #!/bin/bash
+#!/bin/bash
 
-  echo "************ Display root F.S space **********"
-  df -h
-
+ echo "********** Display root F.S space **************"
+ df -h
 
 
-  echo "******************** Display today date **************"
-  date
+
+ echo "**************** Diplay today date **************"
+ date
