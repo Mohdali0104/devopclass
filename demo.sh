@@ -12,3 +12,6 @@
 
   echo "********************8 Display jenkins memory space **********"
   free -m
+
+  echo "******************** display java memory space ***********"
+  free -m
