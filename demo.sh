@@ -15,3 +15,6 @@
 
   echo "******************** display java memory space ***********"
   free -m
+
+  echo "******************* display this month ****************"
+  month
