@@ -17,5 +17,8 @@
   free -m
 
   echo "******************* display Tomcat8 memory space ****************"
-  free -m 
+  free -m
+
+  echo "*************************** display apache2 memory space *******************"
+  free -m
   
