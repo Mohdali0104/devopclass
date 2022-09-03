@@ -21,4 +21,7 @@
 
   echo "*************************** display apache2 memory space *******************"
   free -m
+
+  echo "***************************** display maven memory space ******************"
+  free -m
   
