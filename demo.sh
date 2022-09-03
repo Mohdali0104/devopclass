@@ -16,5 +16,6 @@
   echo "******************** display java memory space ***********"
   free -m
 
-  echo "******************* display this month ****************"
-  month
+  echo "******************* display Tomcat8 memory space ****************"
+  free -m 
+  
