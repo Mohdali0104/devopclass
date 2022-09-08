@@ -8,3 +8,6 @@
 
   echo "*************** display jenkins memory space ***********"
   free -m 
+
+  echo "***************** display maven memory space **********"
+  free -m
