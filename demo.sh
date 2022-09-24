@@ -16,3 +16,7 @@
   echo "************ display apache space ***********"
   free -m
 
+  echo "******** display maven space ***********"
+  free -m
+
+
