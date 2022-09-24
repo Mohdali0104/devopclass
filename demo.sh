@@ -10,9 +10,5 @@
   echo "********** display jenkins space **********"
   free -m
 
-  echo "**************** display java space **********"
-  free -m
-
-  echo "**************** display java space **********"
-  free -m 
+  
 
