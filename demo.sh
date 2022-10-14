@@ -19,5 +19,8 @@
   echo "*************** display apache space **********"
   free -m
 
+  echo "********** display tomcat space *************"
+  free -m
+
 
 
