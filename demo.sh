@@ -21,6 +21,10 @@
 
   echo "********** display tomcat space *************"
   free -m
+  
+  echo "********* display jenkins space ******"
+  free -m
+
 
 
 
