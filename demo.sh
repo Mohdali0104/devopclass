@@ -13,7 +13,8 @@
   echo "***************** display java space ************"
   free -m
 
-  
+  echo "*************** display tomcat space ***********"
+  free -m 
 
 
 
